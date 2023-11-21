@@ -54,14 +54,14 @@ function index() {
             <p>Collection Name</p>
             <div className="subContentNcg">
               <p>: </p>
-              <input type="number" placeholder="Enter name here" />
+              <input type="text" placeholder="Enter name here" />
             </div>
           </div>
           <div className="image">
             <p>Collection Description</p>
             <div className="subContentNcg">
               <p>: </p>
-              <input type="number" placeholder="Enter description here" />
+              <input type="text" placeholder="Enter description here" />
             </div>
           </div>
         </div>

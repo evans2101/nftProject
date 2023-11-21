@@ -1,0 +1,158 @@
+.ContentNcg {
+    margin: 50px 0px;
+    border-radius: 10px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.Content1Ncg {
+    background-color: black;
+    margin: 50px 200px;
+    border-radius: 10px;
+    padding: 20px 50px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.9); /* Adjust the fourth value (0.7) for the desired opacity (0 to 1) */
+}
+.containerImgNgc {
+    background-image: url('../../components/assets/backImage.jpg'); 
+    height: 100vh;
+}
+.image {
+    text-align: start;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+input {
+    border-radius: 10px;
+    height: 30px;
+    margin-left: 20px;
+    background-color: transparent;
+    border: white 1px solid;
+}
+
+select {
+    margin-left: 25px;
+}
+
+.ncgContain {
+    width: 50%;
+}
+.childNcg {
+    border: 1px dotted red;
+    border-radius: 10px;
+    padding: 0 20px;
+    margin-bottom: 20px;
+}
+.subContentNcg {
+    display: flex;
+    align-items: center;
+}
+.image-content {
+    width: auto;
+}
+select {
+    width: 170px;
+    background-color: transparent;
+    border: white 1px solid;
+    height: 30px;
+    border-radius: 10px;
+    color: white;
+}
+option {
+    color: black;
+}
+/* Add this to your CSS file or style section in the React component */
+.green-button {
+    background-color: transparent;
+    color: white;
+    padding: 10px 20px;
+    border: 1px solid green;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .green-button:hover {
+    background-color: darkgreen;
+  }
+  
+  /* Add this to your CSS file or style section in the React component */
+.green-button2 {
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .green-button2:hover {
+    background-color: darkgreen;
+  }
+  .buttonNcg {
+    display: flex;
+    justify-content: space-between
+  }
+  .ncgCollection {
+    width: 45%;
+}
+.childNcgColec {
+    border: 1px dotted red;
+    border-radius: 10px;
+    padding: 120px 50px;
+}
+.labelInput {
+    width: 100%;
+    font-weight: bold;
+}
+.labelInput1 {
+    width: 100%;
+    padding-top: 20px;
+}
+.containLabel { 
+    display: flex;
+    flex-direction: column;
+align-content: center;
+}
+
+.vector {
+    width: 40px;
+    height: 50px;
+    display: flex;
+    margin: auto;
+}
+.footerNcg {
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+    align-items: center;
+}
+.contentFooterNcg h3 p {
+    line-height: -1px;
+}
+.contentFooterNcg1 {
+    display: flex;
+}
+.logoFootNcg {
+    padding-right: 10px;
+}
+
+.connectWallet {
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border: 1px solid green;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 300px;
+    text-align: center;
+    margin-left: auto;
+  }
+  
+  .connectWallet:hover {
+    background-color: darkgreen;
+  }

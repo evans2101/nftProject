@@ -8,7 +8,7 @@ function index() {
           <div className="image">
             <p>Image Format</p>
             <div className="subContentNcg">
-            <p>: </p>
+              <p>: </p>
               <select>
                 <option value="default">Image Format</option>
                 <option value="png">png</option>
@@ -41,7 +41,7 @@ function index() {
           <div className="image">
             <p>Metadata Standard</p>
             <div className="subContentNcg">
-            <p>: </p>
+              <p>: </p>
               <select>
                 <option value="default">Select</option>
                 <option value="png">png</option>

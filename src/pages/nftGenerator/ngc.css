@@ -163,48 +163,48 @@ option {
 }
 
 @media screen and (max-width: 768px) {
-    .Content1Ncg {
-        display: flex;
-        flex-direction: column;
-        margin: 0;
-        border-radius: 0;
-        padding: 0 15px;
-    }
-    .ContentNcg {
-        display: flex;
-        flex-direction: column;
-        margin: 0;
-        padding: 0;
-    }
-    .ncgCollection {
-        padding: 0;
-        margin-top: 70px;
-        width: auto;
-        height: auto;
-    }
-    .childNcgColec {
-        padding: 20px;
-    }
-    .connectWallet {
-        display: flex;
-        margin: 10px auto;
-        text-align: center;
-        justify-content: center;
-    }
-    .ncgContain {
-        width: auto;
-        margin-top: 20px;
-    }
-    .buttonNcg {
-        margin-bottom: 20px;
-    }
-    .footerNcg {
-        margin-bottom: 20px;
-    }
-    .contentFooterNcg p {
-        font-size: 10px;
-    }
-    input {
-        color: white;
-    }
+  .Content1Ncg {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    border-radius: 0;
+    padding: 0 15px;
+  }
+  .ContentNcg {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+  }
+  .ncgCollection {
+    padding: 0;
+    margin-top: 70px;
+    width: auto;
+    height: auto;
+  }
+  .childNcgColec {
+    padding: 20px;
+  }
+  .connectWallet {
+    display: flex;
+    margin: 10px auto;
+    text-align: center;
+    justify-content: center;
+  }
+  .ncgContain {
+    width: auto;
+    margin-top: 20px;
+  }
+  .buttonNcg {
+    margin-bottom: 20px;
+  }
+  .footerNcg {
+    margin-bottom: 20px;
+  }
+  .contentFooterNcg p {
+    font-size: 10px;
+  }
+  input {
+    color: white;
+  }
 }
